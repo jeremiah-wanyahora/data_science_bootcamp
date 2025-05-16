@@ -66,3 +66,27 @@ print("\n --- Summary ---")
 print(f"Total : ${total}")
 print(f"Average : ${average}")
 
+
+# Stretch goal 2
+
+products = ["Laptop", "Mouse", "Keyboard", "Laptop", "Monitor", "Mouse", "Monitor", "Keyboard"]
+prices = [1200, 600, 800, 1200, 900, 600, 900, 800]
+
+for i in range(len(products)):
+    print(f"{products[i]} : ${prices[i]}")
+
+# Calculate the total and average
+
+total = 0
+for price in prices:
+    total += price
+
+# Average 
+
+average = total/ len(prices)
+
+print("\n --- Prices Summary ---")
+print(f"Total : ${total}")
+print(f"(Average : ${average})")
+
+
