@@ -1,6 +1,6 @@
 # Discount checker
 
-price = int(input("Enter product price: 1200"))
+price = int(input("Enter product price: "))
 discount = 0
 
 if price > 1000:
