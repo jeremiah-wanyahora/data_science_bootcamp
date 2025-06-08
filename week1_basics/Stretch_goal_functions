@@ -8,4 +8,6 @@ def calculate_roi(revenues, costs):
         roi = (revenues[i] - costs[i])/costs[i]
         print(f"Campaign{i+1} ROI:{roi:.2%}")
 
-calculate_roi(revenues, costs)
+calculate_roi(revenues, costs) 
+
+

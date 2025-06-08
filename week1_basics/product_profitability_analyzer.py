@@ -29,3 +29,4 @@ def analyze_products(products, prices, costs):
             print(f"Warning: Low-margin product!")
 
 analyze_products(products, prices, costs)
+

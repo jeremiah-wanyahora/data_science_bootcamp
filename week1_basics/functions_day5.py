@@ -27,3 +27,5 @@ def describe_product(name = "Laptop", price = 23000):
 describe_product("Mouse", 3000)
 describe_product("Keyboard", 5000)
 
+
+
