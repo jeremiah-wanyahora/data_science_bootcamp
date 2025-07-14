@@ -1,0 +1,9 @@
+Product,Region,Price,Cost,Quantity,Date
+Coffee,Nairobi,1200,,10,2024-06-01
+Tea,,450,300,20,2024-06-01
+Milk,Kisumu,600,400,,2024-06-02
+Coffee,Mombasa,1300,850,8,2024-06-03
+Tea,Nairobi,not_available,300,18,2024-06-03
+Milk,Nairobi,650,400,12,2024-06-04
+Tea,Nairobi,500,300,18,2024-06-03
+Tea,Nairobi,500,300,18,2024-06-03
