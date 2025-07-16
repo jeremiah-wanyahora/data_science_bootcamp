@@ -1,0 +1,7 @@
+Product,Region,Price,Cost,Quantity,Date,Bigorder,Revenue,Profit,Profit_margin,High_margin
+Coffee,Nairobi,1200.0,850.0,10.0,2024-06-01,False,12000.0,3500.0,29.166666666666668,False
+Tea,Mombasa,450.0,300.0,20.0,2024-06-01,True,9000.0,3000.0,33.33333333333333,False
+Milk,Kisumu,600.0,400.0,18.0,2024-06-02,True,10800.0,3600.0,33.33333333333333,False
+Coffee,Mombasa,1300.0,850.0,8.0,2024-06-03,False,10400.0,3600.0,34.61538461538461,False
+Tea,Nairobi,500.0,300.0,18.0,2024-06-03,True,9000.0,3600.0,40.0,True
+Milk,Nairobi,650.0,400.0,12.0,2024-06-04,True,7800.0,3000.0,38.46153846153847,True
