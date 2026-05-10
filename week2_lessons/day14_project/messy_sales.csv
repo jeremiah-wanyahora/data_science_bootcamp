@@ -1,0 +1,21 @@
+Date, Product, Quantity, Revenue, Region, Customer
+2024-01-15, Laptop, 2, 2400.00, North, John Smith
+2024-01-15, laptop, 1, 1200.00, north, jane doe
+2024-01-15,  Desktop , 3, 2700.00, South,  Mike Johnson
+2024-01-16, Tablet, , 500.00, East, Sarah Williams
+2024-01-16, tablet, 2, , east, sarah williams
+2024-01-16, Tablet, 2, 1000.00, East, SARAH WILLIAMS
+2024-01-17,  Phone, 5, 2500.00, West, David Brown
+2024-01-17, Phone, five, 2500.00, west, david brown
+2024-01-18, Monitor, -1, -150.00, North, , 
+2024-01-18, monitor, 1, 150.00, north, Emily White
+2024-01-19,  Keyboard, 3, 135.00, Central,  Tom Clark
+2024-01-20, Mouse, 0, 0.00, East, 
+2024-01-20, mouse, 10, 250.00, EAST, Lisa Ray
+2024-13-01, Laptop, 1, 1100.00, North, John Smith
+2024/02/01, Tablet, 2, 900.00, South, Anna Lee
+2024-02-01,tablet,2,900.00,south,anna lee
+2024-02-02,  DESKTOP , 1, 800.00, West,  Paul Green
+2024-02-02, Desktop, 1, 800.00, west, paul green
+2024-02-03, Phone,  , 300.00, Central,   
+2024-02-03, Phone, 1, 300.00, central, Mary Jones

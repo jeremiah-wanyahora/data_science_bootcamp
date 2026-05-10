@@ -1,0 +1,12 @@
+Date, Product, Quantity, Revenue, Region, Customer,Price,Month
+2024-01-15,Laptop,2.0,2400.0,North,John Smith,1200.0,1
+2024-01-15,Laptop,1.0,1200.0,North,Jane Doe,1200.0,1
+2024-01-15,Desktop,3.0,2700.0,South,Mike Johnson,900.0,1
+2024-01-16,Tablet,2.0,1000.0,East,Sarah Williams,500.0,1
+2024-01-17,Phone,5.0,2500.0,West,David Brown,500.0,1
+2024-01-18,Monitor,1.0,150.0,North,Emily White,150.0,1
+2024-01-19,Keyboard,3.0,135.0,Central,Tom Clark,45.0,1
+2024-01-20,Mouse,10.0,250.0,East,Lisa Ray,25.0,1
+2024-02-01,Tablet,2.0,900.0,South,Anna Lee,450.0,2
+2024-02-02,Desktop,1.0,800.0,West,Paul Green,800.0,2
+2024-02-03,Phone,1.0,300.0,Central,Mary Jones,300.0,2
